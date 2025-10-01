@@ -18,7 +18,7 @@
 ## 🌟 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Vibe GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Vibe GIF" />
 </p>
 
 I am a Senior Software Developer with expertise in full stack development and AI-driven solutions, specializing in both web and mobile applications. With a unique focus on vibe coding—crafting clean, intuitive, and future-ready solutions—I bring together modern frameworks, intelligent systems, and user-centric design to deliver high-impact digital products. Skilled at combining modern frontend frameworks with powerful backend technologies to build seamless, maintainable, and efficient full stack solutions tailored to business needs. Proven track record of delivering 100+ successful projects with a client-focused approach.
