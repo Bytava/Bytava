@@ -55,19 +55,6 @@ With a proven track record of delivering **100+ successful projects**, I bring a
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 I'm always open to discussing new opportunities, innovative projects, or just chatting about tech.
