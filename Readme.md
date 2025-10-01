@@ -1,18 +1,21 @@
-<artifact identifier="standout-readme" type="text/markdown" title="README.md">
-# Hi, I'm [Your Name]! 👋
+<artifact identifier="standout-readme-v2" type="text/markdown" title="README.md">
+# 👨‍💻 Full Stack & Vibe Coding Specialist
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&#x26;pause=1000&#x26;color=000000&#x26;center=true&#x26;vCenter=true&#x26;random=false&#x26;width=435&#x26;lines=Full+Stack+Developer;React+%26+Next.js+Specialist;7%2B+Years+Experience;Building+Scalable+Web+Apps" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&#x26;size=24&#x26;duration=3000&#x26;pause=1000&#x26;color=007EC6&#x26;center=true&#x26;vCenter=true&#x26;width=500&#x26;lines=React.js+%7C+Next.js+%7C+TypeScript;7%2B+Years+of+Full-Stack+Expertise;Delivering+Scalable+Web+Solutions;100%2B+Successful+Projects" alt="Typing SVG">
 
-A dedicated Full Stack Developer with 7+ years of experience specializing in React, Next.js, Node.js, and TypeScript. I build scalable, high-performance web applications that deliver exceptional user experiences. Passionate about clean code, modern architectures, and turning ideas into reality. Delivered 100+ successful projects with a client-focused approach.
-🚀 About Me
 
-🔭 I’m currently working on full-stack applications using modern JavaScript ecosystems
-🌱 I’m currently learning advanced GraphQL patterns and serverless architectures
-👯 I’m looking to collaborate on open-source React projects
-💬 Ask me about full-stack development, performance optimization, or TypeScript best practices
-⚡ Fun fact: I once built a real-time chat app during a hackathon in under 24 hours!
+  Dedicated Full Stack Developer specializing in modern web technologies to build seamless, high-performance applications tailored to business needs.
 
-🛠️ Tech Stack
+🌟 About Me
+With over 7 years in the field, I thrive on creating efficient, maintainable full-stack solutions using React, Next.js, Node.js, and TypeScript. My client-focused approach has led to 100+ successful projects, blending technical excellence with creative problem-solving.
+
+Passion: Crafting user-centric apps with clean, scalable code.
+Currently Exploring: Advanced AI integrations and edge computing.
+Collaboration: Open to contributing to innovative open-source projects.
+Ask Me About: Best practices in TypeScript, API design, or performance tuning.
+Fun Fact: I optimized a legacy app to load 3x faster in just one weekend!
+
+⚙️ Skills & Technologies
 Frontend
 
 
@@ -23,54 +26,60 @@ Frontend
 Backend
 
 
+
+
 Databases
 
 
 
 
 
-Tools & Others
+Security
 
 
 
-🔥 Featured Projects
-E-Commerce Platform
-A full-featured online store with secure payments, inventory management, and admin dashboard.
-Tech Stack: Next.js, React, Node.js, MongoDB, Stripe, Tailwind CSS
+
+📂 Highlighted Projects
+VibeStore E-Commerce
+Scalable platform with real-time inventory, secure checkout, and user dashboards.
+Stack: Next.js, React, Node.js, MongoDB, Tailwind CSS, Stripe, JWT
+
+Repository | Demo
+FlowTask Manager
+Collaborative app featuring real-time updates, task assignments, and analytics.
+Stack: React, TypeScript, Node.js, GraphQL, PostgreSQL, Supabase
+
+Repository | Demo
+PulseSocial Dashboard
+Tool for scheduling posts, tracking engagement, and multi-platform integration.
+Stack: React, Redux, Node.js, Express, MySQL, Firebase, Bootstrap
+
+Repository | Demo
+Explore more in my repositories!
+📈 GitHub Insights
+
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&#x26;theme=dracula&#x26;hide_border=true&#x26;include_all_commits=true&#x26;count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&#x26;theme=dracula&#x26;hide_border=true&#x26;include_all_commits=true&#x26;count_private=true&#x26;layout=compact" alt="Top Languages" width="35%">
 
 
-Task Management App
-Real-time collaborative task manager with drag-and-drop interface and role-based permissions.
-Tech Stack: React, TypeScript, GraphQL, PostgreSQL, Supabase
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&#x26;theme=dracula&#x26;hide_border=true" alt="Streak Stats">
+
+🏆 Achievements
+
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&#x26;theme=dracula&#x26;no-frame=true&#x26;margin-w=15&#x26;margin-h=15" alt="Trophies">
+
+🔗 Get in Touch
+
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&#x26;logo=vercel&#x26;logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&#x26;logo=x&#x26;logoColor=white" alt="Twitter">
+
+👀 Visitors
+
+  <img src="https://api.visitorbadge.io/api/visitors?path=yourusername%2Fyourusername&#x26;label=Visitors&#x26;countColor=%23263759" alt="Visitor Badge">
 
 
-Social Media Dashboard
-Analytics and scheduling tool for managing multiple social platforms with real-time insights.
-Tech Stack: React, Redux, Node.js, Firebase, MySQL
-
-
-📊 GitHub Stats
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&#x26;show_icons=true&#x26;theme=radical&#x26;include_all_commits=true&#x26;count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&#x26;layout=compact&#x26;langs_count=7&#x26;theme=radical">
-
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&#x26;theme=radical" alt="streak">
-
-📫 Connect with Me
-
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&#x26;logo=twitter&#x26;logoColor=white" alt="Twitter">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&#x26;logo=about.me&#x26;logoColor=white" alt="Portfolio">
-
-🤝 Let's Connect
-I'm always open to discussing new opportunities, interesting projects, or just chatting about tech. Feel free to reach out!
-
-  <img src="https://komarev.com/ghpvc/?username=yourusername&#x26;style=flat-square&#x26;color=blue" alt="Visitor Count">
-
-
-⭐ Star this repository if you found it helpful!
-💬 Have questions? Feel free to open an issue or contact me directly.
-Thanks for visiting! 🚀
+If my work inspires you, give it a ⭐! Questions or ideas? Open an issue or drop a message. Let's code the future together! 🚀
 </artifact>
