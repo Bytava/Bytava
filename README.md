@@ -1,4 +1,4 @@
-🚀 Full Stack Developer | React • Next.js • Node.js Specialist
+<p>🚀 Full Stack Developer | React • Next.js • Node.js Specialist
 <div align="center">
 https://komarev.com/ghpvc/?username=yourusername&label=Profile%2520Views&color=blue&style=flat
 https://img.shields.io/github/followers/yourusername?label=Follow&style=social
@@ -104,3 +104,5 @@ https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&sect
 </div>
 🔄 Recent Activity
 <!--START_SECTION:activity--><!--END_SECTION:activity-->
+</div>
+<p/>
