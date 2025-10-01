@@ -28,7 +28,6 @@ Dedicated Full Stack Developer with 7+ years of experience specializing in React
 - 👯 Open to collaborating on open-source full-stack projects
 - 🤔 Need help with React optimizations or Node.js scaling? Hit me up!
 - 💬 Ask me about turning vibes into code
-- 📫 Reach me: your.email@example.com
 - ⚡ Fun fact: I code better with coffee and good beats ☕🎧
 
 <details>
