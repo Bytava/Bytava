@@ -1,9 +1,9 @@
-# Hi there, I'm Bytava 👋
-
-### Full Stack & Vibe Coding Specialist
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Bytava's%20World&fontSize=60&animation=fadeIn&fontAlignY=40" alt="Header Capsule" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Building+Seamless+Web+Experiences;7%2B+Years+of+Full+Stack+Magic;React%2C+Next.js%2C+Node.js+Expert;Delivering+Scalable+Solutions+with+Vibe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Building+Seamless+Web+Experiences;7%2B+Years+of+Full+Stack+Magic;Web%2C+Mobile+App%2C+AI+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,6 +16,10 @@
 ---
 
 ## 🌟 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Vibe GIF" />
+</p>
 
 Dedicated Full Stack Developer with 7+ years of experience specializing in React, Next.js, Node.js, and TypeScript, delivering scalable and high-performance web applications. Skilled at combining modern frontend frameworks with powerful backend technologies to build seamless, maintainable, and efficient full stack solutions tailored to business needs. Proven track record of delivering 100+ successful projects with a client-focused approach.
 
@@ -35,33 +39,23 @@ Dedicated Full Stack Developer with 7+ years of experience specializing in React
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,ts,html,css,tailwind,bootstrap,nodejs,express,graphql,mongodb,postgres,mysql,firebase)
-
-### Frontend Magic ✨
-- React.js, Next.js, Redux, TypeScript
-- HTML, CSS, Tailwind CSS, Bootstrap
-
-### Backend Powerhouse ⚡
-- Node.js, Express.js
-- REST APIs, GraphQL
-
-### Database Wizardry 🗄️
-- MongoDB, PostgreSQL, MySQL
-- Firebase, Supabase
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,bootstrap,materialui,nodejs,express,graphql,python,django,fastapi,flask,java,spring,php,laravel,ruby,rails,go,rust,c,cpp,cs,dotnet,mongodb,postgresql,mysql,sqlite,firebase,supabase,aws,azure,gcp,docker,kubernetes,git,github,gitlab,linux,vscode,postman,tensorflow,pytorch,opencv,sklearn,keras" />
+</p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bytava&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bytava&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytava&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bytava&show_icons=true&theme=vue&border_radius=10&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytava&layout=compact&theme=vue&border_radius=10&langs_count=6" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bytava&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<br/>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bytava&theme=vue&border_radius=10" width="60%" />
+</div>
+
 
 ---
 
