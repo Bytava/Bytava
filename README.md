@@ -13,10 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=Bytava&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="300" alt="Coding GIF">
-</p>
-
 ---
 
 ## 🌟 About Me
