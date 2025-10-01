@@ -1,4 +1,4 @@
-# Hi there, I'm Bitava 👋
+# Hi there, I'm Bytava 👋
 
 ### Full Stack & Vibe Coding Specialist
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge&logo=code" alt="Available for Projects">
   <img src="https://img.shields.io/badge/Projects-100%2B%20Delivered-blueviolet?style=for-the-badge&logo=rocket" alt="100+ Projects">
   <img src="https://img.shields.io/badge/Experience-7%2B%20Years-orange?style=for-the-badge&logo=clock" alt="7+ Years Experience">
-  <img src="https://komarev.com/ghpvc/?username=Bitava&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bytava&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -58,12 +58,13 @@ Dedicated Full Stack Developer with 7+ years of experience specializing in React
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bitava&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bitava&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bytava&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bytava&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytava&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bitava&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bytava&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
