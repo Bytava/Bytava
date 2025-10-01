@@ -1,73 +1,104 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<h3 align="center">A Passionate Full-Stack Developer Crafting Scalable & High-Performance Web Applications</h3>
+# Hi there, I'm YourName 👋
+
+### Full Stack & Vibe Coding Specialist
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Building+Seamless+Web+Experiences;7%2B+Years+of+Full+Stack+Magic;React%2C+Next.js%2C+Node.js+Expert;Delivering+Scalable+Solutions+with+Vibe" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge&logo=code" alt="Available for Projects">
+  <img src="https://img.shields.io/badge/Projects-100%2B%20Delivered-blueviolet?style=for-the-badge&logo=rocket" alt="100+ Projects">
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-orange?style=for-the-badge&logo=clock" alt="7+ Years Experience">
+</p>
+
+---
+
+## 🌟 About Me
+
+Dedicated Full Stack Developer with 7+ years of experience specializing in React, Next.js, Node.js, and TypeScript, delivering scalable and high-performance web applications. Skilled at combining modern frontend frameworks with powerful backend technologies to build seamless, maintainable, and efficient full stack solutions tailored to business needs. Proven track record of delivering 100+ successful projects with a client-focused approach.
+
+- 🔭 Currently vibing on innovative web apps that push boundaries
+- 🌱 Leveling up with AI integrations and edge computing
+- 👯 Open to collaborating on open-source full-stack projects
+- 🤔 Need help with React optimizations or Node.js scaling? Hit me up!
+- 💬 Ask me about turning vibes into code
+- 📫 Reach me: your.email@example.com
+- ⚡ Fun fact: I code better with coffee and good beats ☕🎧
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="300" alt="Coding GIF">
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Magic ✨
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React.js" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" title="Next.js" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" title="Redux" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" title="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" title="CSS" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" title="Bootstrap" /></a>
+</p>
+
+### Backend Powerhouse ⚡
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" title="Express.js" /></a>
+  <a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST%20APIs-Expert-FF6F00?style=flat&logo=rest" height="50" alt="REST APIs" title="REST APIs" /></a>
+  <a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" alt="GraphQL" title="GraphQL" /></a>
+</p>
+
+### Database Wizardry 🗄️
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" title="Firebase" /></a>
+  <a href="https://supabase.io/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" height="50" alt="Supabase" title="Supabase" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-I am a dedicated **Full Stack Developer** with over **7 years of experience** specializing in the modern JavaScript ecosystem. My passion lies in architecting and building seamless, maintainable, and efficient full-stack solutions that are perfectly tailored to business needs.
-
-With a proven track record of delivering **100+ successful projects**, I bring a client-focused approach to every line of code, ensuring scalability, performance, and a great user experience from front to back.
-
-- 🌱 I’m currently exploring **AI/ML integrations** and **advanced system architecture**.
-- 💬 Ask me about **React, Next.js, Node.js, TypeScript**, and **Vibe Coding**.
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I believe the best code is not just functional, but also elegant and readable.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### **Frontend & Vibe**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
-
-#### **Backend & APIs**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-</p>
-
-#### **Databases & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-</p>
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
-### 📫 Let's Connect!
-
-I'm always open to discussing new opportunities, innovative projects, or just chatting about tech.
+<details>
+  <summary><b>✨ More About My Vibe</b></summary>
+  <p>I believe in "Vibe Coding" – where code isn't just functional, it's an experience. Let's create something epic together! 🚀</p>
+</details>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting-💖-pink?style=flat-square" alt="Thanks">
 </p>
