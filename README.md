@@ -105,4 +105,4 @@ https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&sect
 🔄 Recent Activity
 <!--START_SECTION:activity--><!--END_SECTION:activity-->
 </div>
-<p/>
+</p>
