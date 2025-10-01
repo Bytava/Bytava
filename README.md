@@ -54,6 +54,9 @@ With a proven track record of delivering **100+ successful projects**, I bring a
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
 
 ### 📫 Let's Connect!
 
