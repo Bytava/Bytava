@@ -50,15 +50,6 @@ I am a Senior Software Developer with expertise in full stack development and AI
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytava&layout=compact&theme=vue&border_radius=10&langs_count=6" width="48%" />
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bytava&theme=vue&border_radius=10" width="60%" />
-</div>
-
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
