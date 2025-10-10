@@ -42,15 +42,3 @@ I am a Senior Software Developer with expertise in full stack development and AI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,bootstrap,materialui,nodejs,express,graphql,python,django,fastapi,flask,java,spring,php,laravel,ruby,rails,go,rust,c,cpp,cs,dotnet,mongodb,postgresql,mysql,sqlite,firebase,supabase,aws,azure,gcp,docker,kubernetes,git,github,gitlab,linux,vscode,postman,tensorflow,pytorch,opencv,sklearn,keras" />
 </p>
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting-💖-pink?style=for-the-badge" alt="Thanks">
-</p>
