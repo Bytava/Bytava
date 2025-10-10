@@ -43,13 +43,6 @@ I am a Senior Software Developer with expertise in full stack development and AI
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,bootstrap,materialui,nodejs,express,graphql,python,django,fastapi,flask,java,spring,php,laravel,ruby,rails,go,rust,c,cpp,cs,dotnet,mongodb,postgresql,mysql,sqlite,firebase,supabase,aws,azure,gcp,docker,kubernetes,git,github,gitlab,linux,vscode,postman,tensorflow,pytorch,opencv,sklearn,keras" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bytava&show_icons=true&theme=vue&border_radius=10&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytava&layout=compact&theme=vue&border_radius=10&langs_count=6" width="48%" />
-</div>
-
 ## 🔗 Connect with Me
 
 <p align="center">
